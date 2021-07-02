@@ -1,0 +1,17 @@
+C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Release\aspnet-QuoteAPI-20210625025713.mdf
+C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Release\aspnet-QuoteAPI-20210625025713_log.ldf
+C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Release\QuoteAPI.Repository.dll.config
+C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Release\QuoteAPI.Repository.dll
+C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Release\QuoteAPI.Repository.pdb
+C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Release\EntityFramework.dll
+C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Release\QuoteAPI.Domain.dll
+C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Release\QuoteAPI.Domain.pdb
+C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Release\QuoteAPI.Domain.dll.config
+C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Release\EntityFramework.xml
+C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\obj\Release\QuoteAPI.Repository.csproj.AssemblyReference.cache
+C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\obj\Release\QuoteAPI.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\obj\Release\QuoteAPI.Repository.csproj.CopyComplete
+C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\obj\Release\QuoteAPI.Repository.dll
+C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\obj\Release\QuoteAPI.Repository.pdb

@@ -15,3 +15,37 @@ C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\obj\Debug\Quo
 C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Debug\aspnet-QuoteAPI-20210625025713.mdf
 C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Debug\aspnet-QuoteAPI-20210625025713_log.ldf
 C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Debug\QuoteAPI.Domain.dll.config
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Debug\aspnet-QuoteAPI-20210625025713.mdf
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Debug\aspnet-QuoteAPI-20210625025713_log.ldf
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Debug\QuoteAPI.Repository.dll.config
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Debug\QuoteAPI.Repository.dll
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Debug\QuoteAPI.Repository.pdb
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Debug\EntityFramework.dll
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Debug\QuoteAPI.Domain.dll
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Debug\QuoteAPI.Domain.pdb
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Debug\QuoteAPI.Domain.dll.config
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Debug\EntityFramework.xml
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\obj\Debug\QuoteAPI.Repository.csproj.AssemblyReference.cache
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\obj\Debug\QuoteAPI.Repository.csproj.CoreCompileInputs.cache
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\obj\Debug\QuoteAPI.Repository.csproj.CopyComplete
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\obj\Debug\QuoteAPI.Repository.dll
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Repository\obj\Debug\QuoteAPI.Repository.pdb
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Repository\bin\Debug\aspnet-QuoteAPI-20210625025713.mdf
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Repository\bin\Debug\aspnet-QuoteAPI-20210625025713_log.ldf
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Repository\bin\Debug\QuoteAPI.Repository.dll.config
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Repository\bin\Debug\QuoteAPI.Repository.dll
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Repository\bin\Debug\QuoteAPI.Repository.pdb
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Repository\bin\Debug\EntityFramework.dll
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Repository\bin\Debug\QuoteAPI.Domain.dll
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Repository\bin\Debug\QuoteAPI.Domain.pdb
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Repository\bin\Debug\QuoteAPI.Domain.dll.config
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Repository\bin\Debug\EntityFramework.xml
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Repository\obj\Debug\QuoteAPI.Repository.csproj.AssemblyReference.cache
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Repository\obj\Debug\QuoteAPI.Repository.csproj.CoreCompileInputs.cache
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Repository\obj\Debug\QuoteAPI.Repository.csproj.CopyComplete
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Repository\obj\Debug\QuoteAPI.Repository.dll
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Repository\obj\Debug\QuoteAPI.Repository.pdb

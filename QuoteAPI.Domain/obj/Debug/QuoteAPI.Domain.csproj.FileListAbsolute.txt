@@ -12,3 +12,31 @@ C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\bin\Debug\EntityF
 C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\bin\Debug\EntityFramework.xml
 C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Allied Gaming\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\obj\Debug\QuoteAPI.Domain.csproj.CopyComplete
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\bin\Debug\aspnet-QuoteAPI-20210625025713.mdf
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\bin\Debug\aspnet-QuoteAPI-20210625025713_log.ldf
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\bin\Debug\QuoteAPI.Domain.dll.config
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\bin\Debug\QuoteAPI.Domain.dll
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\bin\Debug\QuoteAPI.Domain.pdb
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\bin\Debug\EntityFramework.dll
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\bin\Debug\EntityFramework.xml
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\obj\Debug\QuoteAPI.Domain.csproj.AssemblyReference.cache
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\obj\Debug\QuoteAPI.Domain.csproj.CoreCompileInputs.cache
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\obj\Debug\QuoteAPI.Domain.csproj.CopyComplete
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\obj\Debug\QuoteAPI.Domain.dll
+D:\MSVS-workspace\QuoteAPI\QuoteAPI.Domain\obj\Debug\QuoteAPI.Domain.pdb
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Domain\bin\Debug\aspnet-QuoteAPI-20210625025713.mdf
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Domain\bin\Debug\aspnet-QuoteAPI-20210625025713_log.ldf
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Domain\bin\Debug\QuoteAPI.Domain.dll.config
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Domain\bin\Debug\QuoteAPI.Domain.dll
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Domain\bin\Debug\QuoteAPI.Domain.pdb
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Domain\bin\Debug\EntityFramework.dll
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Domain\bin\Debug\EntityFramework.xml
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Domain\obj\Debug\QuoteAPI.Domain.csproj.AssemblyReference.cache
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Domain\obj\Debug\QuoteAPI.Domain.csproj.CoreCompileInputs.cache
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Domain\obj\Debug\QuoteAPI.Domain.csproj.CopyComplete
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Domain\obj\Debug\QuoteAPI.Domain.dll
+D:\MSVS-workspace\QuoteAPI_ASP.NET\QuoteAPI.Domain\obj\Debug\QuoteAPI.Domain.pdb

@@ -16,11 +16,13 @@ using Microsoft.Owin.Security.OAuth;
 using QuoteAPI.Models;
 using QuoteAPI.Providers;
 using QuoteAPI.Results;
+using System.Web.Http.Cors;
 
 namespace QuoteAPI.Controllers
 {
     [Authorize]
     [RoutePrefix("api/Account")]
+    // [EnableCors(origins: "http://localhost:4200", headers: "*", methods: "*")]
     public class AccountController : ApiController
     {
         private const string LocalLoginProvider = "Local";
@@ -328,6 +330,7 @@ namespace QuoteAPI.Controllers
                 return BadRequest(ModelState);
             }
 
+
             var user = new ApplicationUser() { UserName = model.Email, Email = model.Email };
 
             IdentityResult result = await UserManager.CreateAsync(user, model.Password);
@@ -336,6 +339,20 @@ namespace QuoteAPI.Controllers
             {
                 return GetErrorResult(result);
             }
+
+
+            var roleStore = new RoleStore<IdentityRole>(new ApplicationDbContext());
+            var roleManager = new RoleManager<IdentityRole>(roleStore);
+
+            var applicationRoleAdministration = new IdentityRole() { Name = model.Role };
+            if (!roleManager.RoleExists(applicationRoleAdministration.Name))
+            {
+                roleManager.Create(applicationRoleAdministration);
+            }
+
+            user = await UserManager.FindByEmailAsync(model.Email);
+
+            var roleResult = await UserManager.AddToRoleAsync(user.Id, model.Role);
 
             return Ok();
         }
