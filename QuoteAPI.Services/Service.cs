@@ -36,13 +36,20 @@ namespace QuoteAPI.Services
         public Quote getQuote(int id)
         {
             Quote quote = unw.quote.GetByID(id);
-            quote.QuoteType = quote.QuoteType.Trim();
-            quote.Contact = quote.Contact.Trim();
-            quote.Task = quote.Task.Trim();
-            quote.QuoteType = quote.QuoteType.Trim();
-            quote.TaskType = quote.TaskType.Trim();
+            if (quote != null)
+            {
+                quote.QuoteType = quote.QuoteType.Trim();
+                quote.Contact = quote.Contact.Trim();
+                quote.Task = quote.Task.Trim();
+                quote.QuoteType = quote.QuoteType.Trim();
+                quote.TaskType = quote.TaskType.Trim();
 
-            return quote;
+                return quote;
+            }
+            else
+            {
+                return null;
+            }
         }
 
         public void insertQuote(Quote quote)
